@@ -1,0 +1,7 @@
+results/
+data/
+*.sas7bdat
+*.rds
+.Rhistory
+.RData
+.DS_Store
